@@ -1,0 +1,268 @@
+{
+  "session": {
+    "maxAge": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-session\\config\\config.default.js",
+    "key": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-session\\config\\config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-security\\config\\config.default.js",
+    "protocolWhiteList": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-security\\config\\config.default.js",
+    "csrf": {
+      "enable": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-security\\config\\config.default.js",
+      "type": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-security\\config\\config.default.js",
+      "ignoreJSON": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-security\\config\\config.default.js",
+      "useSession": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-security\\config\\config.default.js",
+      "cookieName": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-security\\config\\config.default.js",
+      "sessionName": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-security\\config\\config.default.js",
+      "headerName": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-security\\config\\config.default.js",
+      "bodyName": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-security\\config\\config.default.js",
+      "queryName": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-security\\config\\config.default.js",
+      "refererWhiteList": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xframe": {
+      "enable": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-security\\config\\config.local.js",
+      "maxAge": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-security\\config\\config.default.js",
+      "checkAddress": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-security\\config\\config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "csrf": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-onerror\\config\\config.default.js",
+    "templatePath": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieDomain": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-schedule\\config\\config.default.js",
+      "file": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-schedule\\config\\config.default.js"
+  },
+  "multipart": {
+    "mode": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-multipart\\config\\config.default.js",
+    "autoFields": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileSize": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileExtensions": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-multipart\\config\\config.default.js",
+    "whitelist": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-multipart\\config\\config.default.js",
+    "tmpdir": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-multipart\\config\\config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-development\\config\\config.default.js",
+    "ignoreDirs": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-development\\config\\config.default.js",
+    "fastReady": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-development\\config\\config.default.js",
+    "reloadOnDebug": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideDefault": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideIgnore": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-static\\config\\config.default.js",
+    "dir": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-static\\config\\config.default.js",
+    "dynamic": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-static\\config\\config.default.js",
+    "preload": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-static\\config\\config.default.js",
+    "buffer": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-static\\config\\config.default.js",
+    "maxFiles": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-static\\config\\config.default.js"
+  },
+  "view": {
+    "root": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-view\\config\\config.default.js",
+    "cache": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-view\\config\\config.local.js",
+    "defaultExtension": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-view\\config\\config.default.js",
+    "defaultViewEngine": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-view\\config\\config.default.js",
+    "mapping": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg-view\\config\\config.default.js"
+  },
+  "env": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+  "name": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+  "keys": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+  "cookies": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+  "maxIpsCount": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+  "maxProxyCount": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+  "pkg": {
+    "name": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+    "version": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+    "main": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+    "license": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+    "scripts": {
+      "dev": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "webpack": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+      "webpack-cli": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js"
+    },
+    "dependencies": {
+      "antd": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+      "egg": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+      "immer": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+      "react": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+      "react-dom": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+      "recoil": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "baseDir": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+  "rundir": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+    "formLimit": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+    "jsonLimit": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+    "textLimit": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+    "strict": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+      "depth": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js"
+    },
+    "onerror": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js"
+  },
+  "logger": {
+    "dir": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+    "env": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+    "level": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+    "consoleLevel": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+    "appLogName": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+    "coreLogName": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+    "agentLogName": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+    "errorLogName": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+    "request": {
+      "timeout": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+    "logging": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+  "serverTimeout": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+      "port": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+      "hostname": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js",
+    "responseTimeout": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js"
+  },
+  "onClientError": "E:\\ryanKe\\practice\\webpack-setting\\node_modules\\egg\\config\\config.default.js"
+}

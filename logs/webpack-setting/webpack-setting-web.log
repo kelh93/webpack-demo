@@ -1,0 +1,45 @@
+2020-12-14 19:01:17,417 ERROR 46460 [-/::1/-/65ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (E:\ryanKe\practice\webpack-setting\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (E:\ryanKe\practice\webpack-setting\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (E:\ryanKe\practice\webpack-setting\node_modules\egg-security\app\extend\context.js:91:35)
+    at Object.ensureCsrfSecret (E:\ryanKe\practice\webpack-setting\node_modules\egg-security\app\extend\context.js:104:13)
+    at csrf (E:\ryanKe\practice\webpack-setting\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (E:\ryanKe\practice\webpack-setting\node_modules\koa-compose\index.js:42:32)
+    at E:\ryanKe\practice\webpack-setting\node_modules\koa-compose\index.js:34:12
+    at dispatch (E:\ryanKe\practice\webpack-setting\node_modules\koa-compose\index.js:42:32)
+    at session (E:\ryanKe\practice\webpack-setting\node_modules\koa-session\index.js:41:13)
+    at dispatch (E:\ryanKe\practice\webpack-setting\node_modules\koa-compose\index.js:42:32)
+
+pid: 46460
+hostname: HSZC1701-0001
+
+2020-12-14 19:05:29,259 ERROR 39844 [-/::1/-/8ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (E:\ryanKe\practice\webpack-setting\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (E:\ryanKe\practice\webpack-setting\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (E:\ryanKe\practice\webpack-setting\node_modules\egg-security\app\extend\context.js:91:35)
+    at Object.ensureCsrfSecret (E:\ryanKe\practice\webpack-setting\node_modules\egg-security\app\extend\context.js:104:13)
+    at csrf (E:\ryanKe\practice\webpack-setting\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (E:\ryanKe\practice\webpack-setting\node_modules\koa-compose\index.js:42:32)
+    at E:\ryanKe\practice\webpack-setting\node_modules\koa-compose\index.js:34:12
+    at dispatch (E:\ryanKe\practice\webpack-setting\node_modules\koa-compose\index.js:42:32)
+    at session (E:\ryanKe\practice\webpack-setting\node_modules\koa-session\index.js:41:13)
+    at dispatch (E:\ryanKe\practice\webpack-setting\node_modules\koa-compose\index.js:42:32)
+
+pid: 39844
+hostname: HSZC1701-0001
+
+2020-12-14 19:05:31,550 ERROR 39844 [-/::1/-/1ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (E:\ryanKe\practice\webpack-setting\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (E:\ryanKe\practice\webpack-setting\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (E:\ryanKe\practice\webpack-setting\node_modules\egg-security\app\extend\context.js:91:35)
+    at Object.ensureCsrfSecret (E:\ryanKe\practice\webpack-setting\node_modules\egg-security\app\extend\context.js:104:13)
+    at csrf (E:\ryanKe\practice\webpack-setting\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (E:\ryanKe\practice\webpack-setting\node_modules\koa-compose\index.js:42:32)
+    at E:\ryanKe\practice\webpack-setting\node_modules\koa-compose\index.js:34:12
+    at dispatch (E:\ryanKe\practice\webpack-setting\node_modules\koa-compose\index.js:42:32)
+    at session (E:\ryanKe\practice\webpack-setting\node_modules\koa-session\index.js:41:13)
+    at dispatch (E:\ryanKe\practice\webpack-setting\node_modules\koa-compose\index.js:42:32)
+
+pid: 39844
+hostname: HSZC1701-0001
+

@@ -1,0 +1,27 @@
+2020-12-14 19:00:54,269 INFO 46164 [Timer] E:\ryanKe\practice\webpack-setting\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 34145734ms at 2020-12-15 04:30:00.003
+2020-12-14 19:00:54,269 INFO 46164 [Timer] E:\ryanKe\practice\webpack-setting\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 17945731ms at 2020-12-15 00:00:00.000
+2020-12-14 19:00:54,269 INFO 46164 [Timer] E:\ryanKe\practice\webpack-setting\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 17946731ms at 2020-12-15 00:00:01.000
+2020-12-14 19:00:54,107 INFO 46460 [egg-schedule]: register schedule E:\ryanKe\practice\webpack-setting\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-12-14 19:00:54,107 INFO 46460 [egg-schedule]: register schedule E:\ryanKe\practice\webpack-setting\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-12-14 19:00:54,108 INFO 46460 [egg-schedule]: register schedule E:\ryanKe\practice\webpack-setting\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-12-14 19:01:38,505 INFO 38968 [egg-schedule]: register schedule E:\ryanKe\practice\webpack-setting\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-12-14 19:01:38,505 INFO 38968 [egg-schedule]: register schedule E:\ryanKe\practice\webpack-setting\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-12-14 19:01:38,505 INFO 38968 [egg-schedule]: register schedule E:\ryanKe\practice\webpack-setting\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-12-14 19:01:45,783 INFO 43804 [egg-schedule]: register schedule E:\ryanKe\practice\webpack-setting\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-12-14 19:01:45,784 INFO 43804 [egg-schedule]: register schedule E:\ryanKe\practice\webpack-setting\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-12-14 19:01:45,784 INFO 43804 [egg-schedule]: register schedule E:\ryanKe\practice\webpack-setting\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-12-14 19:04:50,071 INFO 10968 [egg-schedule]: register schedule E:\ryanKe\practice\webpack-setting\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-12-14 19:04:50,072 INFO 10968 [egg-schedule]: register schedule E:\ryanKe\practice\webpack-setting\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-12-14 19:04:50,072 INFO 10968 [egg-schedule]: register schedule E:\ryanKe\practice\webpack-setting\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-12-14 19:05:11,169 INFO 39844 [egg-schedule]: register schedule E:\ryanKe\practice\webpack-setting\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-12-14 19:05:11,169 INFO 39844 [egg-schedule]: register schedule E:\ryanKe\practice\webpack-setting\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-12-14 19:05:11,169 INFO 39844 [egg-schedule]: register schedule E:\ryanKe\practice\webpack-setting\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-12-14 19:05:37,723 INFO 46744 [egg-schedule]: register schedule E:\ryanKe\practice\webpack-setting\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-12-14 19:05:37,723 INFO 46744 [egg-schedule]: register schedule E:\ryanKe\practice\webpack-setting\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-12-14 19:05:37,723 INFO 46744 [egg-schedule]: register schedule E:\ryanKe\practice\webpack-setting\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-12-14 19:05:49,632 INFO 39328 [egg-schedule]: register schedule E:\ryanKe\practice\webpack-setting\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-12-14 19:05:49,632 INFO 39328 [egg-schedule]: register schedule E:\ryanKe\practice\webpack-setting\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-12-14 19:05:49,632 INFO 39328 [egg-schedule]: register schedule E:\ryanKe\practice\webpack-setting\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-12-14 19:06:55,045 INFO 45676 [egg-schedule]: register schedule E:\ryanKe\practice\webpack-setting\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-12-14 19:06:55,045 INFO 45676 [egg-schedule]: register schedule E:\ryanKe\practice\webpack-setting\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-12-14 19:06:55,045 INFO 45676 [egg-schedule]: register schedule E:\ryanKe\practice\webpack-setting\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
